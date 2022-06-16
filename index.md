@@ -12,7 +12,7 @@ A simple twitch command that auto bans 181 known bots and has auto ban/timeout a
 | !so       |  Shoutout someone! |
 | !hug      |  Hugs! |
 | !8ball    |  8ball will tell you lies |
-| !points   |  A simple point system |
+| !points   |  Show your own points or from a specific user |
 | !give     |  Give points to another user |
 | !slots    |  Gamble away your points |
 | !boss     |  Fight scary bosses |
