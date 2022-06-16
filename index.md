@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## WuffeBot - A bot for twitch!
 
-You can use the [editor on GitHub](https://github.com/jonnyboy0719/WuffeBot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A simple twitch command that auto bans 181 known bots and has auto ban/timeout and antispam features. Written from scratch because why not!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Commands
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jonnyboy0719/WuffeBot/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+| Command   |      Message      |
+|-----------|:-----------------:|
+| !cookie   |  Omnom |
+| !bucket   |  Bucket |
+| !quote    |  Show a random quote or a specific one |
+| !so       |  Shoutout someone! |
+| !hug      |  Hugs! |
+| !8ball    |  8ball will tell you lies |
+| !points   |  A simple point system |
+| !give     |  Give points to another user |
+| !slots    |  Gamble away your points |
+| !boss     |  Fight scary bosses |
