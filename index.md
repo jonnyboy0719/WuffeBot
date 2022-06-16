@@ -1,6 +1,6 @@
 ## WuffeBot - A bot for twitch!
 
-A simple twitch command that auto bans 181 known bots and has auto ban/timeout and antispam features. Written from scratch because why not!
+A simple twitch bot that auto bans 181 known bots and has auto ban/timeout and antispam features. Written from scratch because why not!
 
 ### Commands
 
