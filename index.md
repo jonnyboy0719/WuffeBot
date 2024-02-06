@@ -16,3 +16,10 @@ A simple twitch bot that auto bans 181 known bots and has auto ban/timeout and a
 | !give     |  Give points to another user |
 | !slots    |  Gamble away your points |
 | !boss     |  Fight scary bosses |
+| !buff     |  Buff yourself before the raid begins |
+| !buffs     |  Display the available buffs |
+| !buffinfo     |  Grab available buff information |
+| !debuff     | Debuff the raid boss to have a higher chance of winning |
+| !duel     | Duel someone, and steal away their points! |
+| !accept     | Accept the duel challenge |
+| !decline     | Decline the duel challenge |
